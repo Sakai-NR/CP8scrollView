@@ -1,0 +1,6 @@
+framework module Pods_cp8_22 {
+  umbrella header "Pods-cp8-22-umbrella.h"
+
+  export *
+  module * { export * }
+}

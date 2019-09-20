@@ -1,0 +1,6 @@
+framework module Pods_cp8_20 {
+  umbrella header "Pods-cp8-20-umbrella.h"
+
+  export *
+  module * { export * }
+}
